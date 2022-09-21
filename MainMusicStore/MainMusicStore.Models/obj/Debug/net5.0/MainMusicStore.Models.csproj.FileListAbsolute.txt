@@ -1,0 +1,12 @@
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\bin\Debug\net5.0\MainMusicStore.Models.deps.json
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\bin\Debug\net5.0\MainMusicStore.Models.dll
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\bin\Debug\net5.0\ref\MainMusicStore.Models.dll
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\bin\Debug\net5.0\MainMusicStore.Models.pdb
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\obj\Debug\net5.0\MainMusicStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\obj\Debug\net5.0\MainMusicStore.Models.AssemblyInfoInputs.cache
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\obj\Debug\net5.0\MainMusicStore.Models.AssemblyInfo.cs
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\obj\Debug\net5.0\MainMusicStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\obj\Debug\net5.0\MainMusicStore.Models.dll
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\obj\Debug\net5.0\ref\MainMusicStore.Models.dll
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\obj\Debug\net5.0\MainMusicStore.Models.pdb
+C:\Users\EKIZ\source\repos\MainMusicStore\MainMusicStore.Models\obj\Debug\net5.0\MainMusicStore.Models.csproj.AssemblyReference.cache
